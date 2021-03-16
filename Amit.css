@@ -1,0 +1,23 @@
+
+body {
+           
+    background-color: rgb(232, 248, 250);
+}
+h1{
+color: #44d6d6;
+}
+h3{
+    color: rgb(71, 219, 219);
+}
+
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+
+}
+.im{
+    width: 15%;
+}
